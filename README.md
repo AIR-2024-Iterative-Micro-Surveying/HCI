@@ -9,6 +9,8 @@ https://www.washington.edu/assessment/reports/husky-check-in/
 - `20240530_AIRForum_BergerLevinson_ReportGenerator.R` is an Rscript you can run to create parameterized reports. In this case, we are generating one report per campus.
 
 #### Instructions for use
-##### 1. Review and/or update `20240530_AIRForumDenver_BergerLevinson.Rmd`. Tweak this script to reflect your own data and report.
+##### 1. Review and/or update `20240530_AIRForumDenver_BergerLevinson.Rmd`. 
+Tweak this script to reflect your own data and report. Make sure the filepaths are correct for *your* device!
 ##### 2. Run `20240530_AIRForum_BergerLevinson_ReportGenerator.R`
-##### 3. Edit. Enjoy.
+Make sure the filepaths are correct for *your* device!
+##### 3. Edit and enjoy! 
