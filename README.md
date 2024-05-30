@@ -1,5 +1,8 @@
 **Beyond the Pulse Check: Effective Iterative Micro-surveying**
 ================
+#### AIR Forum 5/30/24 Slides:
+*Deck will be posted after the session**
+
 #### Husky Check-in 1-4 Reports and Tableau Dashboard:
 https://www.washington.edu/assessment/reports/husky-check-in/
 
